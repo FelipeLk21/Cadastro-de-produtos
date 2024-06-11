@@ -21,11 +21,11 @@ Este é um sistema simples de gerenciamento de projetos desenvolvido utilizando 
 
 1. Clone o repositório para o seu computador:
    ```
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
+   git clone https://github.com/FelipeLk21/Cadastro-de-produtos
    ```
 2. Navegue até o diretório do projeto:
    ```
-   cd nome-do-projeto
+   cd Cadastro-de-produtos
    ```
 3. Abra o arquivo `index.html` em seu navegador web.
 
